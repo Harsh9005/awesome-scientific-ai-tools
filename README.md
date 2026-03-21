@@ -1,5 +1,7 @@
 <div align="center">
 
+**[English](README.md)** | [中文](README-zh-CN.md) | [日本語](README-ja.md) | [Español](README-es.md)
+
 # Awesome Scientific AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **A curated list of AI-powered tools, MCP servers, and agent skills for scientific research.**
