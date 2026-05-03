@@ -2,7 +2,7 @@
 
 # Awesome Scientific AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of AI-powered tools, MCP servers, and agent skills for scientific research.
+AI-powered tools, MCP servers, and agent skills for the day-to-day workflow of scientific research — from literature search to manuscript submission.
 
 [English](README.md) | [中文](README-zh.md) | [日本語](README-ja.md) | [Español](README-es.md) | [Deutsch](README-de.md)
 
@@ -10,8 +10,12 @@ A curated list of AI-powered tools, MCP servers, and agent skills for scientific
 
 ---
 
+This list focuses on tools researchers use *in their workflow* — searching literature, reading papers, writing manuscripts, analyzing data, generating figures, submitting to journals, applying for grants. Each entry must be a tool, server, or agent skill (not a paper, dataset, or foundation-model checkpoint), must be actively maintained, and must offer a free tier or be in widespread academic use. Two sections are unique to this list: **MCP Servers for Research** (Model Context Protocol bridges to scientific databases) and **AI Agent Skills & Plugins** (skills for Claude Code, Cursor, and other coding agents). Sections are ordered to follow a typical research project: discover → read → write → analyze → compute → automate → publish → fund → collaborate.
+
 ## Contents
 
+- [MCP Servers for Research](#mcp-servers-for-research)
+- [AI Agent Skills & Plugins](#ai-agent-skills--plugins)
 - [Literature Search & Discovery](#literature-search--discovery)
 - [Citation Management](#citation-management)
 - [Research Reading & Comprehension](#research-reading--comprehension)
@@ -23,8 +27,6 @@ A curated list of AI-powered tools, MCP servers, and agent skills for scientific
 - [Drug Discovery & Chemistry](#drug-discovery--chemistry)
 - [Bioinformatics & Genomics](#bioinformatics--genomics)
 - [Clinical Trials & Medical](#clinical-trials--medical)
-- [MCP Servers for Research](#mcp-servers-for-research)
-- [AI Agent Skills & Plugins](#ai-agent-skills--plugins)
 - [Research Workflow Automation](#research-workflow-automation)
 - [Preprint & Publication Tools](#preprint--publication-tools)
 - [Grant Writing & Funding](#grant-writing--funding)
@@ -32,6 +34,29 @@ A curated list of AI-powered tools, MCP servers, and agent skills for scientific
 - [AI Models for Science](#ai-models-for-science)
 
 ---
+
+## MCP Servers for Research
+
+MCP (Model Context Protocol) servers extend AI agents with real-time access to scientific databases.
+
+- [PubMed MCP](https://github.com/cyanheads/pubmed-mcp-server) - Search PubMed and the NCBI E-utilities API for biomedical literature, with article metadata, full text, citations, and MeSH terms.
+- [arXiv MCP](https://github.com/blazickjp/arxiv-mcp-server) - Search and fetch arXiv preprints across physics, math, computer science, and biology, with PDF-to-Markdown conversion.
+- [Semantic Scholar MCP](https://github.com/JackKuo666/semanticscholar-MCP-Server) - Access the Semantic Scholar API for paper search, author details, citations, and references.
+- [ChEMBL MCP](https://github.com/Augmented-Nature/ChEMBL-MCP-Server) - Query bioactivity data, compound information, target interactions, and mechanisms of action from ChEMBL.
+- [ClinicalTrials MCP](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) - Search the ClinicalTrials.gov v2 API for trials, study details, results, and patient eligibility matching.
+- [bioRxiv MCP](https://github.com/JackKuo666/bioRxiv-MCP-Server) - Search and access bioRxiv preprints for biology research.
+- [CrossRef MCP](https://github.com/JackKuo666/Crossref-MCP-Server) - Metadata lookup for DOIs, citations, journals, and funder information through the Crossref API.
+- [Google Scholar MCP](https://github.com/JackKuo666/Google-Scholar-MCP-Server) - Search Google Scholar for academic papers, citations, and author profiles.
+
+## AI Agent Skills & Plugins
+
+Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for research workflows.
+
+- [Professional Word Document Generator](https://github.com/Harsh9005/professional-word-document-generator) - Generate publication-ready .docx from JSON. LaTeX equations, 200+ scientific symbols, auto-citations.
+- [Multi-Agent Orchestrator](https://github.com/Harsh9005/multi-agent-orchestrator) - 6-phase pipeline with adaptive complexity, parallel agents, and quality gates.
+- [AI Session Logger](https://github.com/Harsh9005/ai-session-logger) - Persistent session memory — track files, decisions, and progress across conversations.
+- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Open collection of scientific skills for Claude Code and other AI coding agents across multiple research domains.
+- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) - Curated list of Claude Code extensions, skills, and resources.
 
 ## Literature Search & Discovery
 
@@ -137,29 +162,6 @@ A curated list of AI-powered tools, MCP servers, and agent skills for scientific
 - [Europe PMC](https://europepmc.org/) - Open-access biomedical literature with full-text search, citation networks, and API access.
 - [Cochrane Library](https://www.cochranelibrary.com/) - Gold-standard systematic reviews and meta-analyses for evidence-based medicine.
 - [OHDSI / OMOP](https://www.ohdsi.org/) - Open-source tools for observational health data analysis with a common data model.
-
-## MCP Servers for Research
-
-MCP (Model Context Protocol) servers extend AI agents with real-time access to scientific databases.
-
-- [PubMed MCP](https://github.com/cyanheads/pubmed-mcp-server) - Search PubMed and the NCBI E-utilities API for biomedical literature, with article metadata, full text, citations, and MeSH terms.
-- [arXiv MCP](https://github.com/blazickjp/arxiv-mcp-server) - Search and fetch arXiv preprints across physics, math, computer science, and biology, with PDF-to-Markdown conversion.
-- [Semantic Scholar MCP](https://github.com/JackKuo666/semanticscholar-MCP-Server) - Access the Semantic Scholar API for paper search, author details, citations, and references.
-- [ChEMBL MCP](https://github.com/Augmented-Nature/ChEMBL-MCP-Server) - Query bioactivity data, compound information, target interactions, and mechanisms of action from ChEMBL.
-- [ClinicalTrials MCP](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) - Search the ClinicalTrials.gov v2 API for trials, study details, results, and patient eligibility matching.
-- [bioRxiv MCP](https://github.com/JackKuo666/bioRxiv-MCP-Server) - Search and access bioRxiv preprints for biology research.
-- [CrossRef MCP](https://github.com/JackKuo666/Crossref-MCP-Server) - Metadata lookup for DOIs, citations, journals, and funder information through the Crossref API.
-- [Google Scholar MCP](https://github.com/JackKuo666/Google-Scholar-MCP-Server) - Search Google Scholar for academic papers, citations, and author profiles.
-
-## AI Agent Skills & Plugins
-
-Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for research workflows.
-
-- [Professional Word Document Generator](https://github.com/Harsh9005/professional-word-document-generator) - Generate publication-ready .docx from JSON. LaTeX equations, 200+ scientific symbols, auto-citations.
-- [Multi-Agent Orchestrator](https://github.com/Harsh9005/multi-agent-orchestrator) - 6-phase pipeline with adaptive complexity, parallel agents, and quality gates.
-- [AI Session Logger](https://github.com/Harsh9005/ai-session-logger) - Persistent session memory — track files, decisions, and progress across conversations.
-- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Open collection of scientific skills for Claude Code and other AI coding agents across multiple research domains.
-- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) - Curated list of Claude Code extensions, skills, and resources.
 
 ## Research Workflow Automation
 
