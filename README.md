@@ -31,7 +31,6 @@ This list focuses on tools researchers use *in their workflow* — searching lit
 - [Preprint & Publication Tools](#preprint--publication-tools)
 - [Grant Writing & Funding](#grant-writing--funding)
 - [Collaboration & Project Management](#collaboration--project-management)
-- [AI Models for Science](#ai-models-for-science)
 
 ---
 
@@ -93,7 +92,6 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 - [Writefull](https://www.writefull.com/) - AI writing tool trained on published journal articles. Integrated into Overleaf.
 - [Trinka](https://www.trinka.ai/) - AI grammar checker for academic and technical writing with style and tone suggestions.
 - [QuillBot](https://quillbot.com/) - AI paraphrasing and summarizing tool with grammar checker and citation generator.
-- [Grammarly](https://www.grammarly.com/) - General writing assistant with academic tone detection and plagiarism checking.
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX editor with real-time collaboration, templates, and Writefull AI integration.
 - [Typst](https://typst.app/) - Modern markup-based typesetting system. Faster compilation than LaTeX with better error messages.
 
@@ -137,6 +135,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 ## Drug Discovery & Chemistry
 
 - [AlphaFold](https://alphafold.ebi.ac.uk/) - DeepMind's protein structure prediction. 200M+ predicted structures in the database.
+- [AlphaFold Server](https://alphafoldserver.com/) - Web server to run AlphaFold 3 predictions for proteins, DNA, RNA, ligands, and their interactions. Free for non-commercial use.
 - [RDKit](https://www.rdkit.org/) - Open-source cheminformatics toolkit for molecular analysis, fingerprinting, and descriptor calculation.
 - [DeepChem](https://deepchem.io/) - Open-source library for drug discovery, materials science, and quantum chemistry with deep learning.
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) - Open large-scale bioactivity database with 2M+ compounds and 20M+ activity measurements.
@@ -191,21 +190,9 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 
 ## Collaboration & Project Management
 
-- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases. Popular for lab management.
 - [Obsidian](https://obsidian.md/) - Markdown-based knowledge management with graph view, plugins, and local-first storage.
 - [Logseq](https://logseq.com/) - Open-source, privacy-first knowledge management and note-taking tool.
-- [Slack](https://slack.com/) - Team communication with channels, integrations, and automation for research groups.
 - [OSF](https://osf.io/) - Open Science Framework — free platform for research project management, preregistration, and data sharing.
-
-## AI Models for Science
-
-- [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - Predicts structures of proteins, DNA, RNA, ligands, and their interactions.
-- [Galactica](https://galactica.org/) - Large language model trained on 48M+ scientific papers, textbooks, and encyclopedias.
-- [BioGPT](https://github.com/microsoft/BioGPT) - Domain-specific LLM pre-trained on biomedical literature by Microsoft.
-- [SciBERT](https://github.com/allenai/scibert) - BERT model trained on 1.14M scientific papers from Semantic Scholar.
-- [ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry) - BERT model for molecular property prediction using SMILES representations.
-- [ESM](https://github.com/facebookresearch/esm) - Evolutionary Scale Modeling — protein language models by Meta AI.
-- [MolBERT](https://github.com/BenevolentAI/MolBERT) - BERT-based molecular representation learning for drug discovery.
 
 ## Footnotes
 
