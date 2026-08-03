@@ -111,6 +111,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 - [COMSOL](https://www.comsol.com/) - Multiphysics simulation with AI-enhanced meshing and solver selection.
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - Numerical computing environment with AI/ML toolboxes, Simulink, and domain-specific packages.
 - [Google Colab](https://colab.research.google.com/) - Free Jupyter notebook environment with GPU/TPU access for ML and scientific computing.
+- [Jacobian](https://github.com/morluto/jacobian) - MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms.
 - [Weights & Biases](https://wandb.ai/) - ML experiment tracking, hyperparameter tuning, and model versioning.
 - [DVC](https://dvc.org/) - Open-source version control for ML projects. Tracks data, models, and experiments alongside code.
 
