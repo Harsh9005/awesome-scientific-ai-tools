@@ -89,6 +89,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 
 - [Jenni AI](https://jenni.ai/) - AI writing assistant specifically for academic writing with citation support and paraphrasing.
 - [Paperpal](https://paperpal.com/) - AI grammar and language checker trained on millions of published papers. By Cactus Communications.
+- [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - Open-source academic-writing assistant with context-aware completion and real-time citation suggestions.
 - [Writefull](https://www.writefull.com/) - AI writing tool trained on published journal articles. Integrated into Overleaf.
 - [Trinka](https://www.trinka.ai/) - AI grammar checker for academic and technical writing with style and tone suggestions.
 - [QuillBot](https://quillbot.com/) - AI paraphrasing and summarizing tool with grammar checker and citation generator.
