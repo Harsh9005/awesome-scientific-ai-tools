@@ -46,6 +46,7 @@ MCP (Model Context Protocol) servers extend AI agents with real-time access to s
 - [bioRxiv MCP](https://github.com/JackKuo666/bioRxiv-MCP-Server) - Search and access bioRxiv preprints for biology research.
 - [CrossRef MCP](https://github.com/JackKuo666/Crossref-MCP-Server) - Metadata lookup for DOIs, citations, journals, and funder information through the Crossref API.
 - [Google Scholar MCP](https://github.com/JackKuo666/Google-Scholar-MCP-Server) - Search Google Scholar for academic papers, citations, and author profiles.
+- [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) - Search full text from peer-reviewed computer-science papers, trace citations, extract evidence, and verify claims against verbatim quotes.
 
 ## AI Agent Skills & Plugins
 
