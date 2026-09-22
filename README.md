@@ -171,6 +171,8 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 - [CWL](https://www.commonwl.org/) - Common Workflow Language for describing analysis tools and workflows portably.
 - [Papermill](https://papermill.readthedocs.io/) - Parameterize and execute Jupyter Notebooks as workflows.
 
+- [DeepResearcher](https://orkas.ai/agents/deep-researcher/?source=gh_harshsci) - Plans evidence-grounded research and produces cited syntheses inside Orkas, an open-source, local-first desktop AI workforce.
+
 ## Preprint & Publication Tools
 
 - [arXiv](https://arxiv.org/) - Open-access preprint server for physics, math, CS, biology, and more. 2M+ papers.
