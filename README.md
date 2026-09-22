@@ -156,6 +156,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 
 ## Clinical Trials & Medical
 
+- [Allowly](https://allowly.ai/use-cases/clinical-trials-proof/) - Deterministic policy checks before AI-assisted clinical data transfers, with signed decision records that can support per-study evidence.
 - [ClinicalTrials.gov](https://clinicaltrials.gov/) - US registry of clinical studies. 500K+ studies, searchable by condition, intervention, and sponsor.
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Free search engine for biomedical literature. 36M+ citations from MEDLINE and life science journals.
 - [Europe PMC](https://europepmc.org/) - Open-access biomedical literature with full-text search, citation networks, and API access.
