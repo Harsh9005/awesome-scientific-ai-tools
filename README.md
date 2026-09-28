@@ -45,6 +45,7 @@ MCP (Model Context Protocol) servers extend AI agents with real-time access to s
 - [ClinicalTrials MCP](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) - Search the ClinicalTrials.gov v2 API for trials, study details, results, and patient eligibility matching.
 - [bioRxiv MCP](https://github.com/JackKuo666/bioRxiv-MCP-Server) - Search and access bioRxiv preprints for biology research.
 - [CrossRef MCP](https://github.com/JackKuo666/Crossref-MCP-Server) - Metadata lookup for DOIs, citations, journals, and funder information through the Crossref API.
+- [Genomics MCP](https://github.com/rewire-bio/genomics-mcp) - Retrieve genomic reads, variants, sequences and signal from archives and indexed files through a local MCP server, with bounded queries and source provenance.
 - [Google Scholar MCP](https://github.com/JackKuo666/Google-Scholar-MCP-Server) - Search Google Scholar for academic papers, citations, and author profiles.
 
 ## AI Agent Skills & Plugins
