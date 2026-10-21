@@ -87,6 +87,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 
 ## Writing & Editing
 
+- [HumanPen](https://humanpen.net) - Document-level AI humanizer for academic writing and reports with citation-aware rewriting.
 - [Jenni AI](https://jenni.ai/) - AI writing assistant specifically for academic writing with citation support and paraphrasing.
 - [Paperpal](https://paperpal.com/) - AI grammar and language checker trained on millions of published papers. By Cactus Communications.
 - [Writefull](https://www.writefull.com/) - AI writing tool trained on published journal articles. Integrated into Overleaf.
