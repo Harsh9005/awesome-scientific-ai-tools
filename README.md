@@ -107,6 +107,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 
 ## Scientific Computing
 
+- [AgentFEM](https://github.com/haoming-luo/agentfem) - Open-source finite-element workflow for AI assistants to build, run, and inspect structural and thermal models using a local FEniCSx runtime.
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for math, physics, chemistry, and engineering calculations.
 - [COMSOL](https://www.comsol.com/) - Multiphysics simulation with AI-enhanced meshing and solver selection.
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - Numerical computing environment with AI/ML toolboxes, Simulink, and domain-specific packages.
