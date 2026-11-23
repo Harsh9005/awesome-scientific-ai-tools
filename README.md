@@ -179,6 +179,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 - [ChemRxiv](https://chemrxiv.org/) - Preprint server for chemistry.
 - [Authorea](https://www.authorea.com/) - Collaborative writing platform with built-in data visualization and journal submission.
 - [Curvenote](https://curvenote.com/) - Scientific writing platform with Jupyter integration and interactive figures.
+- [JournalCompass](https://journalcompass.com/) - Free bilingual tool to find the right journal for your manuscript across 43,499 SCI/SSCI journals, with CAS quartile, impact factor, review time, APC, and an AI matching assistant.
 
 ## Grant Writing & Funding
 
