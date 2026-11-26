@@ -93,6 +93,7 @@ Skills and plugins that extend AI coding agents (Claude Code, Cursor, Codex) for
 - [Trinka](https://www.trinka.ai/) - AI grammar checker for academic and technical writing with style and tone suggestions.
 - [QuillBot](https://quillbot.com/) - AI paraphrasing and summarizing tool with grammar checker and citation generator.
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX editor with real-time collaboration, templates, and Writefull AI integration.
+- [Overleaf MCP](https://github.com/yangzichao/mcp-server-overleaf) - Read, edit, and compile shared Overleaf manuscripts from an MCP client, with checks for conflicting co-author edits before publishing.
 - [Typst](https://typst.app/) - Modern markup-based typesetting system. Faster compilation than LaTeX with better error messages.
 
 ## Data Analysis & Visualization
